@@ -1,1 +1,1 @@
-# Git-Practicles
+## Git and Github Practicles
