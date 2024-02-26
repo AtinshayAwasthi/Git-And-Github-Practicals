@@ -1,1 +1,2 @@
 ## Git and Github Practicles
+#Git is a version control system that tracks changes in code, acting like a time machine for your files. It allows you to revert to previous versions if needed. On the other hand, GitHub is a hosting platform designed for Git repositories. It adds collaboration tools, code review, and social networking features, serving as a central hub to store, share, and collaborate on code with others. In essence, Git manages code changes, while GitHub provides a platform for storage and collaboration.
